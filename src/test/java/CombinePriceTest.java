@@ -173,6 +173,7 @@ public class CombinePriceTest {
     }
 
     @Test
+    //Тест с данными из ТЗ
     public void testCombine() throws ParseException {
         List<Price> oldPrices = new ArrayList<>();
         Price oldPrice1 = new Price();
